@@ -195,6 +195,7 @@ def parse_specified_fields(fields):
                     tuples[j] = temp_tup
                 tuples[j][3][attr] = vals
                 break
+                
             j += 1
                 
         if not found: # It is a direct attribute
