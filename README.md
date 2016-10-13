@@ -175,3 +175,9 @@ This simply means that you are allowed to do requests like the following:
     path/to/my/app/api/v1/resource/?fields=field1,resource1(field11,resource12(resource21(field31,field32))
 
 *However, this will not work with ManyToMany relations*
+
+### Acknowledgements
+Thanks to:
+* Florentin Jiechieu
+* Hubert Noyessie
+* Franklin Mbouopda
